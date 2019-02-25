@@ -1,0 +1,11 @@
+1.) What makes you say your code isn't working?
+Students who do not meet the course requirements are listed in the roster
+
+2.) What did you expect your code to do and why?
+I expected it to print out just the names of those with the 
+requirements because the get roster should only 
+accept them
+3.) What did your code do instead and why?
+the code put everyone in the roster because there is no way to filter the students
+
+

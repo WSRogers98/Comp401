@@ -1,0 +1,9 @@
+1.) What makes you say your code isn't working?
+the Menu_opts array index does not work when given a question mark and when you
+ press d to get the date you also get a joke
+ q also doesn't technically quit the program
+2.) What did you expect your code to do and why?
+I expect ? to just pull up the help menu and d to just print the date
+3.) What did your code do instead and why?
+d printed the date and a joke and ? threw an error after printing the menu
+

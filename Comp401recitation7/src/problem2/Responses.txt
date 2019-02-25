@@ -1,0 +1,11 @@
+1.) What makes you say your code isn't working?
+the constructor does not work because it is assigning a a variable to itself
+remove star never actually removes a star
+
+            
+2.) What did you expect your code to do and why?
+I expected the code to return correct values for the star map
+
+3.) What did your code do instead and why?
+instead it threw the out of bounds "error" from the above code for each part because it did not equal one
+
